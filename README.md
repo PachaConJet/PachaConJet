@@ -1,12 +1,15 @@
-### BIO
+ 
+<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/LuxraySprite.gif' width='17%'> 
 
-Studing computer science, love art and music.
-Like to play videogames.
-### 
-Edit on photoshop and edit video (Mostly for memes)
+# About Me
+Studing computer science, love art and music.🖌️🎨
+ ####
+Like to play videogames🕹️
+ 
 
-### Skills
-C, C++, Java, Sql, Html, Php, Kotlin.
+
+# Skills
+C, C++, Java, Js, Sql, Html, Css, Php, Kotlin.
 
 *Knowledge*: Cisco, Unity, Mysql, Oracle and Arduino
 
