@@ -6,7 +6,7 @@ Like to play videogames.
 Edit on photoshop and edit video (Mostly for memes)
 
 ### Skills
-C, C++, Java, Html, Php, Kotlin.
+C, C++, Java, Sql, Html, Php, Kotlin.
 
 *Knowledge*: Cisco, Unity, Mysql, Oracle and Arduino
 
