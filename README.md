@@ -31,6 +31,7 @@ Like to play videogames🕹️
  <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/cisco.png' height='42px'/>
   <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/Arduino.png' height='42px'/>
  <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/Unity.png' height='42px'/>
+ <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/Android%20Studio.png' height='42px'/>
 </p>
 
 
