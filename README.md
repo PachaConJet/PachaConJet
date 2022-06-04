@@ -1,11 +1,12 @@
  
-<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/shinx.gif' width='20%'> 
+<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/shinx.gif' width='30%'> 
 
 
 # BIO
 Studing computer science, love art and music.🖌️🎨
- ###
+###
 Like to play videogames🕹️
+#
 
 
 <img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/Luxio.gif' width='22%'> 
