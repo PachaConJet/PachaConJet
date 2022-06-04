@@ -1,14 +1,14 @@
  
-<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/Luxray.gif' width='20%'> 
+<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/Luxray.gif' width='25%'> 
 
 
-# About Me
+# BIO
 Studing computer science, love art and music.🖌️🎨
  ####
 Like to play videogames🕹️
  ###
 
-<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/Luxio.gif' width='15%'> 
+<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/Luxio.gif' width='25%'> 
 <h2 align="center">Skills</h2>
 <p align="center">Language Skills.</p>
 <p align="center">
@@ -23,14 +23,14 @@ Like to play videogames🕹️
 </p>
 <img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/shinx.gif' width='15%'>
 
- <h2 align="left">Plataform Skills</h2>
+ <h2 align="center">Plataform Skills</h2>
 
-<p align="left">
+<p align="center">
   <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/Oracle.png' height='42px'/>
  <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/mysql.png' height='42px'/>
  <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/cisco.png' height='42px'/>
   <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/Arduino.png' height='42px'/>
  <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/Unity.png' height='42px'/>
 </p>
-<p align="center"></p>
+
 
