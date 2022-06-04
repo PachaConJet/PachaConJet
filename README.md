@@ -6,7 +6,7 @@
 Studing computer science, love art and music.🖌️🎨
  ####
 Like to play videogames🕹️
- ###
+
 
 <img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/Luxio.gif' width='20%'> 
 <h2 align="left">Skills</h2>
