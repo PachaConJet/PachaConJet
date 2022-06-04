@@ -1,5 +1,5 @@
  
-<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/Luxray.gif' width='20%'> 
+<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/shinx.gif' width='20%'> 
 
 
 # BIO
@@ -22,7 +22,7 @@ Like to play videogames🕹️
  <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/php.png' height='42px'/>
  <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/Kotlin.png' height='42px'/>
 </p>
-<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/shinx.gif' width='20%'>
+<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/Luxray.gif' width='20%'>
 
  <h2 align="left"></h2>
 <p align="left">Platform Skills</p>
