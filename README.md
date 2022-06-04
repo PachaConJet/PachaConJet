@@ -1,5 +1,6 @@
  
-<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/LuxraySprite.gif' width='30%'> 
+<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/Luxray.gif' width='20%'> 
+
 
 # About Me
 Studing computer science, love art and music.🖌️🎨
@@ -7,7 +8,7 @@ Studing computer science, love art and music.🖌️🎨
 Like to play videogames🕹️
  ###
 
-
+<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/Luxio.gif' width='15%'> 
 <h2 align="center">Skills</h2>
 <p align="center">Language Skills.</p>
 <p align="center">
@@ -20,6 +21,16 @@ Like to play videogames🕹️
  <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/php.png' height='42px'/>
  <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/Kotlin.png' height='42px'/>
 </p>
+<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/shinx.gif' width='15%'>
 
-*Knowledge*: Cisco, Unity, Mysql, Oracle and Arduino
+ <h2 align="left">Plataform Skills</h2>
+
+<p align="left">
+  <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/Oracle.png' height='42px'/>
+ <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/mysql.png' height='42px'/>
+ <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/cisco.png' height='42px'/>
+  <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/Arduino.png' height='42px'/>
+ <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Plataforms/Unity.png' height='42px'/>
+</p>
+<p align="center"></p>
 
