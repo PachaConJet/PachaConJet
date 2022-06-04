@@ -4,7 +4,7 @@
 
 # BIO
 Studing computer science, love art and music.🖌️🎨
- ####
+ ###
 Like to play videogames🕹️
 
 
