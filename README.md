@@ -1,11 +1,11 @@
  
-<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/LuxraySprite.gif' width='17%'> 
+<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/LuxraySprite.gif' width='30%'> 
 
 # About Me
 Studing computer science, love art and music.🖌️🎨
  ####
 Like to play videogames🕹️
- 
+ ###
 
 
 <h2 align="center">Skills</h2>
