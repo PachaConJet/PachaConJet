@@ -1,5 +1,5 @@
  
-<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/shinx.gif' width='22%'> 
+<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/shinx.gif' width='20%'> 
 
 
 # BIO
