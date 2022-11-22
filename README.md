@@ -20,6 +20,7 @@ Like to play videogames🕹️
  <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Skills/sql.png' height='42px'/>
  <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Skills/php.png' height='42px'/>
  <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Skills/Kotlin.png' height='42px'/>
+  <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Skills/R_logo.png' height='42px'/>
 </p>
 <img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/Luxray.gif' width='25%'>
 
