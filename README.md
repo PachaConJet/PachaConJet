@@ -1,14 +1,8 @@
- 
-<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/shinx.gif' width='20%'> 
+<h2 align="left">BIO</h2><img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/shinx.gif' width='15%'> 
+<p align="left">Studing computer science, love art and music.🖌️🎨 </p>
+<p align="left">Like to play videogames🕹️ </p>
 
-
-# BIO
-Studing computer science, love art and music.🖌️🎨 
-Like to play videogames🕹️
-###
-
-<img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/Luxio.gif' width='23%'> 
-<h2 align="left">Skills</h2>
+<h2 align="left">Skills</h2><img align='left' src='https://github.com/PachaConJet/PachaConJet/blob/main/Bio/Luxio.gif' width='23%'>
 <p align="left">Language Skills</p>
 <p align="left">
  <img src='https://github.com/PachaConJet/PachaConJet/blob/main/Skills/C%23.png' height='42px'/>
